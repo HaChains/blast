@@ -2,6 +2,8 @@ module github.com/ethereum/go-ethereum
 
 go 1.21
 
+toolchain go1.21.5
+
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.2.0
 	github.com/Microsoft/go-winio v0.6.1
